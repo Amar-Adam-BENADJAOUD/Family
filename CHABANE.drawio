@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:141.0) Gecko/20100101 Firefox/141.0" version="28.0.7">
   <diagram name="Page-1" id="Qdo_SYBLGGpn4ifu639h">
-    <mxGraphModel dx="2920" dy="296" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3328" dy="570" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -508,18 +508,6 @@
         <mxCell id="M4tkGlgWLcURc-FJdYQ0-19" value="Machri" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=light-dark(#000000,#FF0000);" vertex="1" parent="1">
           <mxGeometry x="2120" y="260" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="M4tkGlgWLcURc-FJdYQ0-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="M4tkGlgWLcURc-FJdYQ0-21" target="M4tkGlgWLcURc-FJdYQ0-43">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="M4tkGlgWLcURc-FJdYQ0-21" value="Mère Noël (Chafika)" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-1640" y="1230" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="M4tkGlgWLcURc-FJdYQ0-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="M4tkGlgWLcURc-FJdYQ0-22" target="M4tkGlgWLcURc-FJdYQ0-47">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="M4tkGlgWLcURc-FJdYQ0-22" value="Tata Badirha" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-1090" y="750" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="M4tkGlgWLcURc-FJdYQ0-23" value="Tata Akila" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=light-dark(#000000,#FF0000);" vertex="1" parent="1">
           <mxGeometry x="-1640" y="310" width="120" height="60" as="geometry" />
         </mxCell>
@@ -579,30 +567,6 @@
         </mxCell>
         <mxCell id="M4tkGlgWLcURc-FJdYQ0-42" value="Tonton Hamza (Hamza Nazim)" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-1570" y="1160" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="M4tkGlgWLcURc-FJdYQ0-43" value="Père Noël (Mohammed)" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-1500" y="1230" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="M4tkGlgWLcURc-FJdYQ0-45" value="Hamza" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-1570" y="1290" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="M4tkGlgWLcURc-FJdYQ0-46" value="Chayma" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-1570" y="1350" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="M4tkGlgWLcURc-FJdYQ0-47" value="Tata Badr-Eddine" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-950" y="750" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="M4tkGlgWLcURc-FJdYQ0-49" value="Tata Ismahan" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-1020" y="810" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="M4tkGlgWLcURc-FJdYQ0-50" value="Loutfi" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-1020" y="870" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="M4tkGlgWLcURc-FJdYQ0-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="M4tkGlgWLcURc-FJdYQ0-52" target="M4tkGlgWLcURc-FJdYQ0-50">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="M4tkGlgWLcURc-FJdYQ0-52" value="Soulef" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-1160" y="870" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="M4tkGlgWLcURc-FJdYQ0-56" value="Tata Nadia" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-1710" y="920" width="120" height="60" as="geometry" />
@@ -700,13 +664,96 @@
             <mxPoint x="-1430" y="764" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="M4tkGlgWLcURc-FJdYQ0-82" value="Hamo Abdel-Halim" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-1430" y="790" width="120" height="60" as="geometry" />
+        <mxCell id="M4tkGlgWLcURc-FJdYQ0-82" value="Hamto Nesrine" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-1710" y="790" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="M4tkGlgWLcURc-FJdYQ0-83" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-1450" y="824" as="sourcePoint" />
-            <mxPoint x="-1430" y="824" as="targetPoint" />
+            <mxPoint x="-1590" y="819.64" as="sourcePoint" />
+            <mxPoint x="-1570" y="819.64" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M4tkGlgWLcURc-FJdYQ0-93" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-1730" y="1240" width="680" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="M4tkGlgWLcURc-FJdYQ0-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="M4tkGlgWLcURc-FJdYQ0-93" source="M4tkGlgWLcURc-FJdYQ0-21" target="M4tkGlgWLcURc-FJdYQ0-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="M4tkGlgWLcURc-FJdYQ0-21" value="Mère Noël (Chafika)" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="M4tkGlgWLcURc-FJdYQ0-93">
+          <mxGeometry x="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M4tkGlgWLcURc-FJdYQ0-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="M4tkGlgWLcURc-FJdYQ0-93" source="M4tkGlgWLcURc-FJdYQ0-22" target="M4tkGlgWLcURc-FJdYQ0-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="M4tkGlgWLcURc-FJdYQ0-22" value="Tata Badirha" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="M4tkGlgWLcURc-FJdYQ0-93">
+          <mxGeometry x="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M4tkGlgWLcURc-FJdYQ0-43" value="Père Noël (Mohammed)" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="M4tkGlgWLcURc-FJdYQ0-93">
+          <mxGeometry x="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M4tkGlgWLcURc-FJdYQ0-45" value="Hamza" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="M4tkGlgWLcURc-FJdYQ0-93">
+          <mxGeometry x="420" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M4tkGlgWLcURc-FJdYQ0-46" value="Chayma" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="M4tkGlgWLcURc-FJdYQ0-93">
+          <mxGeometry x="560" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M4tkGlgWLcURc-FJdYQ0-47" value="Tata Badr-Eddine" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="M4tkGlgWLcURc-FJdYQ0-93">
+          <mxGeometry x="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M4tkGlgWLcURc-FJdYQ0-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="M4tkGlgWLcURc-FJdYQ0-93" source="M4tkGlgWLcURc-FJdYQ0-49">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="30" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="60" y="90" />
+              <mxPoint x="201" y="90" />
+              <mxPoint x="201" y="30" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M4tkGlgWLcURc-FJdYQ0-49" value="Tata Ismahan" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="M4tkGlgWLcURc-FJdYQ0-93">
+          <mxGeometry y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M4tkGlgWLcURc-FJdYQ0-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="M4tkGlgWLcURc-FJdYQ0-93" source="M4tkGlgWLcURc-FJdYQ0-50">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="30" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="340" y="90" />
+              <mxPoint x="201" y="90" />
+              <mxPoint x="201" y="30" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M4tkGlgWLcURc-FJdYQ0-50" value="Loutfi" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="M4tkGlgWLcURc-FJdYQ0-93">
+          <mxGeometry x="280" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M4tkGlgWLcURc-FJdYQ0-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="M4tkGlgWLcURc-FJdYQ0-93" source="M4tkGlgWLcURc-FJdYQ0-52" target="M4tkGlgWLcURc-FJdYQ0-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="M4tkGlgWLcURc-FJdYQ0-52" value="Soulef" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="M4tkGlgWLcURc-FJdYQ0-93">
+          <mxGeometry x="140" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M4tkGlgWLcURc-FJdYQ0-89" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="M4tkGlgWLcURc-FJdYQ0-93">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="549.8600000000001" y="80" as="sourcePoint" />
+            <mxPoint x="549.8600000000001" y="30" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M4tkGlgWLcURc-FJdYQ0-90" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="M4tkGlgWLcURc-FJdYQ0-93">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="479.8600000000001" y="80" as="sourcePoint" />
+            <mxPoint x="619.8600000000001" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M4tkGlgWLcURc-FJdYQ0-91" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="M4tkGlgWLcURc-FJdYQ0-93">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="619.4299999999998" y="120" as="sourcePoint" />
+            <mxPoint x="619.4299999999998" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M4tkGlgWLcURc-FJdYQ0-92" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="M4tkGlgWLcURc-FJdYQ0-93">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="479.8600000000001" y="120" as="sourcePoint" />
+            <mxPoint x="479.8600000000001" y="80" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
